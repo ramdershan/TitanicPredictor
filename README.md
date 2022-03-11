@@ -1,4 +1,4 @@
-# TitanicPredictor_kaggle
+# TitanicPredictor
 (Currently Working On this Project)
 
 This repo contains the files and datasets used to build, train and evaluate a very simple machine learning (ML) model to predict survivors of the titanic. 
